@@ -68,20 +68,7 @@ Mindset:        Always learning, building and experimenting
 
 ---
 
-## 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/repo1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=repo1&theme=default" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/repo2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=repo2&theme=default" />
-</a>
-
-</div>
-
----
 
 ## 📈 My Development Journey
 
