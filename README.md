@@ -7,7 +7,7 @@
 *Bridging the worlds of technology and global affairs — building web applications while studying international relations.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/aysun-jabbarova-38024b34a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByhGxtHKvRJy7LAEiVDp40A%3D%3D)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/aysun-jabbarova-38024b34a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByhGxtHKvRJy7LAEiVDp40A%3D%3D))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" alt="profile views"/>
